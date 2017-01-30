@@ -1,0 +1,10 @@
+[user]
+token = ''
+
+[[repositories]]
+owner = ''
+name  = ''
+
+[[repositories]]
+owner = ''
+name  = ''
